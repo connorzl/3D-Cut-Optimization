@@ -28,10 +28,6 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Project Description
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/connorzl/3DCutOptimization/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+3D cut optimization is a problem within computational geometry and computer graphics that deals with flattening 3D objects. Specifically, we are interested in the cuts that should be made to minimize the amount of distortion that occurs when the object is flattened along the cuts into a 2D surface. There are various ways of measuring distortion; one might look at how much the boundaries of each cut patch stretches, or one might also look at the dirichlet distortion term for conformal flattening. 
