@@ -52,10 +52,7 @@ Current Workflow:
 4. Convert to SVG format and perform scaling.
 ```
 
-Example Input:
-![Image](blub.PNG)
-
-![Image](textures.png)
+<Output src=textures.png width="200" height="500">
 ### Future Research
 
 ### Motivation
