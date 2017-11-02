@@ -8,7 +8,7 @@ Here is the link to my [project proposal](https://www.jasom.com)
 
 ### Project Mentors
 
-For this project, I will be working with professor [**Keenan Crane**](https://www.cs.cmu.edu/~kmcrane/) as my faculty mentor and his PhD student [**Nick Sharp**] (http://nmwsharp.com/). Nick has already been working on the 3D cut optimization problem and is planning to publish a paper on the topic soon. He has been getting me up to speed in the area and part of my research will involve making contributions to his project.
+For this project, I will be working with professor [**Keenan Crane**](https://www.cs.cmu.edu/~kmcrane/) as my faculty mentor and his PhD student [**Nick Sharp**](https://www.nmwsharp.com/). Nick has already been working on the 3D cut optimization problem and is planning to publish a paper on the topic soon. He has been getting me up to speed in the area and part of my research will involve making contributions to his project.
 
 ### Current Research
 
