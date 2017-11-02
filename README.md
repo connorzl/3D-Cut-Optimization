@@ -24,3 +24,7 @@ Current Workflow:
 4. Convert to SVG format and perform scaling.
 5. Print using a cut printer (Silhouette Cameo) and assemble patches into model.
 ```
+
+### Future Research
+
+### Motivation
