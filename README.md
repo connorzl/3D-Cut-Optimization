@@ -2,6 +2,8 @@
 
 Here is the link to my [project proposal](https://drive.google.com/file/d/0B_HCUEZsQKmnc1pacTJNeWFBd28/view?usp=sharing)
 
+Here is the link to my [project milestone report](https://docs.google.com/document/d/1EhYCoWbqZo5iqqYkfoaXR6XhU6-pgcTyZA3qWcXm0A0/edit?usp=sharing)
+
 ### Introduction
 
 3D cut optimization is a problem within computational geometry and computer graphics that deals with flattening 3D objects. Specifically, we are interested in the cuts that should be made to minimize the amount of distortion that occurs when the object is flattened along the cuts into a 2D surface. There are various ways of measuring distortion; one might look at how much the boundaries of each cut patch stretches, or one might also look at the dirichlet distortion term for conformal flattening.
